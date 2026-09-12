@@ -201,7 +201,7 @@ for local and network-based deployments.
 Clone repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/peabox-ai-workbench.git
+git clone https://github.com/iwebslogtech/peabox-ai-workbench.git
 ```
 
 Navigate:
