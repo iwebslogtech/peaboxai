@@ -1,11 +1,11 @@
 [project]
-name = "peabox-ai-workbench"
+name = "PeaBox AI"
 version = "0.1.0"
 description = "Universal open-source AI workspace for self-hosted and cloud language models."
 requires-python = ">=3.11"
 license = { text = "Apache-2.0" }
 
 [project.urls]
-Homepage = "https://github.com/YOUR_USERNAME/peabox-ai-workbench"
-Repository = "https://github.com/YOUR_USERNAME/peabox-ai-workbench"
-Issues = "https://github.com/YOUR_USERNAME/peabox-ai-workbench/issues"
+Homepage = "https://github.com/iwebslogtech/peaboxai"
+Repository = "https://github.com/iwebslogtech/peaboxai"
+Issues = "https://github.com/iwebslogtech/peaboxai/issues"
