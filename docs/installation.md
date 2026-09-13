@@ -12,7 +12,7 @@ This guide walks you through installing and running PeaBox AI Workbench.
 ## Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/peabox-ai-workbench.git
+git clone https://github.com/iwebslogtech/peaboxai.git
 
 cd peabox-ai-workbench
 ```
